@@ -24,6 +24,8 @@ Internally both the scripts run the following commands
  # How to execute the unit tests
 
  `mvn clean test` will execute the unit test cases.
+ 
+ data is picked from here -> https://geektrust.s3.ap-southeast-1.amazonaws.com/portfolio-overlap/stock_data.json
 
 # Help
 
